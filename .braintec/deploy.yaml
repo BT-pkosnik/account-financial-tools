@@ -1,0 +1,8 @@
+git_repositories:
+  - repository: git@github.com:brain-tec/odoo.git
+    branch: 17.0
+  - repository: git@github.com:brain-tec/enterprise.git
+    branch: 17.0
+  - repository: git@github.com:BT-pkosnik/account-financial-tools.git
+    branch: 17.0
+    mainrepo: True
