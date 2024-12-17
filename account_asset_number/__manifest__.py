@@ -3,15 +3,15 @@
 
 {
     "name": "Assets Number",
-    "version": "16.0.1.1.0",
+    "version": "17.0.1.1.0",
     "license": "AGPL-3",
     "depends": ["account_asset_management"],
     "author": "Ecosoft, Odoo Community Association (OCA)",
     "website": "https://github.com/OCA/account-financial-tools",
     "category": "Accounting & Finance",
     "data": [
-        "views/account_asset_profile.xml",
-        "views/account_asset.xml",
+        "views/account_asset_profile_views.xml",
+        "views/account_asset_views.xml",
         "report/account_asset_number_report.xml",
     ],
 }
